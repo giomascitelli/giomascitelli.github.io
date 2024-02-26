@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.scss">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicon/2.15.1/devicon.min.css">
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
+
+    <title>Giovanni Mascitelli Portfolio - Windows XP</title>
+</head>
+
+<body>
+
+  <!-- Desktop icons -->
+  <ul id="main-icons">
+    <li id="recycle-bin-icon">
+      <a>
+        <span></span>
+      </a>
+    </li>
+
+    <li id="desktop-ie-icon">
+      <a>
+        <span>Internet Explorer</span>
+      </a>
+    </li>
+
+    <li id="desktop-wordpad-icon">
+      <a>
+        <span>Wordpad</span>
+      </a>
+    </li>
+
+    <li id="github-desktop-icon">
+      <a>
+        <span>Github</span>
+      </a>
+    </li>
+  </ul>
+
+  <!-- Taskbar -->
+  <div class="container-fluid fixed-bottom bg-primary">
+    <input id="start-menu-active" type="checkbox" class="d-none">
+    <div class="button-group">
+      <button class="start-button custom-dropdown-toggle" id="dropdownMenuButton" data-bs-toggle="modal" data-bs-target="#exampleModal">
+
+      </button>
+      <button class="btn" id="taskbar-button1"><i class="ie-taskbar-icon" style="margin-right: 5px;"></i> Internet</button>
+      <button class="btn" id="taskbar-button2"><i class="wordpad-icon" style="margin-right: 5px;"></i> Wordpad</button>
+
+    </div>
+    <div class="clock-container">
+      <p id="clock"></p>
+
+    </div>
+  </div>
+
+  <!-- Start menu -->
+  <div class="modal" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-body p-0">
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Github window -->
+  <div class="window" id="window1">
+    <div class="window-header">
+      <div>
+        <span><i class="ie-icon"></i> Internet Explorer - IE7</span>
+      </div>
+      <div>
+        <button class="btn" id="btn-minimize1"></button><button class="btn" id="btn-maximize"></button><button class="btn" id="btn-close"></button>
+      </div>
+    </div>
+
+    <div class="window-content">
+      <div class="navbar m-0 p-0">
+        <img src="https://i.imgur.com/5g3xpdj.png" alt="navbar-image">
+      </div>
+      <div class="image-container" style="position: relative;">
+        <img src="https://imgur.com/YlSALX7.jpg" alt="giomascitelli-github">
+        <a href="https://github.com/giomascitelli?tab=repositories" class="repos-button" target="_blank"></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Wordpad window -->
+  <div class="window" id="window2">
+    <div class="window-header">
+      <div>
+        <span><i class="wordpad-icon"></i> <span class="about-me"></span></span>
+      </div>
+      <div>
+        <button class="btn" id="btn-minimize2"></button><button class="btn" id="btn-maximize"></button><button class="btn" id="btn-close"></button>
+      </div>
+    </div>
+    <div class="window-content">
+      <div class="image-container" style="position: relative; height: 100%;">
+        <img src="https://i.imgur.com/HwQV6mR.png" alt="sobre-mim-wordpad">
+        <div id="texto">
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
