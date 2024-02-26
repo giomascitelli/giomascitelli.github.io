@@ -38,7 +38,7 @@ function applyTranslation() {
 
 window.addEventListener("load", applyTranslation);
 
-$(function () {
+function myEngines() {
   makeDraggable("#window1");
   makeDraggable("#window2");
 
@@ -83,7 +83,9 @@ $(function () {
   $("#taskbar-button2").click(function () {
     $("#window2").css("display", "block");
   });
-});
+}
+
+$(document).ready(myEngines);
 
 function makeDraggable(elementId) {
   $(elementId).draggable({
