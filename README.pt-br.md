@@ -15,6 +15,9 @@ Essa é a minha página de portfólio interativa. Visite para conhecer a mim e m
 
 ![readme-printscr](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/bf06f705-d577-4324-a30e-cd5c85e91fb1)
 
+> [!NOTE]
+> Não se preocupe, caso você prefira a língua portuguesa, o site identifica e altera o texto para se adequar ao usuário.
+
 # Interações
 
 Ao desenvolver as interações dessa página, tentei manter a experiência do Windows XP intacta. Você pode:
