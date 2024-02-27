@@ -1,6 +1,5 @@
 # Giovanni Mascitelli Portfólio - Tema Windows XP
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/giomascitelli/giomascitelli.github.io/blob/main/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/giomascitelli/giomascitelli.github.io/blob/main/README.pt-br.md)
 
 Essa é a minha página de portfólio interativa. Visite para conhecer a mim e meu trabalho! 🙂
 
