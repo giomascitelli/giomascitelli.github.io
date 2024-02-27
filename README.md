@@ -39,22 +39,22 @@ As far as interactions on this web page goes, I tried to stay true to the Window
 ## Using the taskbar button
 ![taskbar-window-interaction-before](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/c87314e8-b3e5-43a7-86fb-0e5162982ddb) ![taskbar-window-interaction-after](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/39fc4c9a-7108-4c28-84e2-817f37181cb0)
 
+## Github repositories button interaction
+
 On the Internet Explorer window, you can:
 - see my Github entire profile page if you scroll down;
 - click on the "Repositories" button on that page and you will be redirected to the Repositories tab on my Github profile and will get to checkout my projects.
 
 Pretty cool huh?
 
-## Github repositories button interaction
-
 ![github-repositories-button-before](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/7e5ee8b3-f2c4-47c9-b6f9-0d79a3d48529) ![github-repositories-button-after](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/79c4c0fd-d1b7-493f-881d-7861aa282562)
+
+## Wordpad resume button
 
 On the Wordpad window, you can:
 - read a little bit about me;
 - you can access my resume;
 - you can also access my LinkedIn profile page.
-
-## Wordpad resume button
 
 ![wordpad-resume-button-before](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/1d5ea07d-04fe-47db-804d-148c90200adc) ![wordpad-resume-button-after](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/2f644c84-67f9-4b8e-bedb-a8f4d5bba94e)
 
