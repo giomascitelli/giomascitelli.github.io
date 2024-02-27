@@ -37,22 +37,22 @@ Ao desenvolver as interações dessa página, tentei manter a experiência do Wi
 ## Usando o botão da barra de tarefas
 ![taskbar-window-interaction-before](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/c87314e8-b3e5-43a7-86fb-0e5162982ddb) ![taskbar-window-interaction-after](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/39fc4c9a-7108-4c28-84e2-817f37181cb0)
 
+## Interação com o botão de repositórios no Github
+
 Na janela do Internet Explorer, você pode: 
 - ver o perfil do meu Github inteiro fazendo scroll para baixo;
 - clicar no botão de "Repositories" na página e você será redirecionado para a aba de Repositórios do meu perfil do Github e poderá dar uma olhada nos meus projetos.
 
 Bem legal, né?
 
-## Interação com o botão de repositórios no Github
-
 ![github-repositories-button-before](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/7e5ee8b3-f2c4-47c9-b6f9-0d79a3d48529) ![github-repositories-button-after](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/79c4c0fd-d1b7-493f-881d-7861aa282562)
+
+## Botão do currículo no Wordpad
 
 Na janela do Wordpad, você pode:
 - ver a seção sobre mim;
 - acessar o meu currículo;
 - acessar o meu LinkedIn.
-
-## Botão do currículo no Wordpad
 
 ![wordpad-resume-button-before](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/1d5ea07d-04fe-47db-804d-148c90200adc) ![wordpad-resume-button-after](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/2f644c84-67f9-4b8e-bedb-a8f4d5bba94e)
 
