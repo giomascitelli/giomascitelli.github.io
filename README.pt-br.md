@@ -12,6 +12,7 @@ Essa é a minha página de portfólio interativa. Visite para conhecer a mim e m
   - [Botão do currículo no Wordpad](#botão-do-currículo-no-wordpad)
   - [Botão do LinkedIn no Wordpad](#botão-do-linkedin-no-wordpad)
 - [Mobile](#mobile)
+- [Linguagens e Ferramentas](#linguagens-e-ferramentas)
 
 ![readme-printscr](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/bf06f705-d577-4324-a30e-cd5c85e91fb1)
 
@@ -71,3 +72,8 @@ Você já viu o Windows XP em um smartphone? Bom, agora você pode. Toda intera�
 ![mobile-first-prtsrc1](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/acadc496-8cd2-451e-8843-9d1f85d39530) ![mobile-second-prtsrc2](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/730ff9f2-2c1c-4d06-b2c4-dcc82b2dd2f8) ![mobile-third-prtsrc3](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/7ceb2174-f0ea-424f-80a8-94b1f98d0950) ![mobile-fourth-prtsrc4](https://github.com/giomascitelli/giomascitelli.github.io/assets/47045018/61af2f59-a24b-4182-aa10-f6d402713906)
 
 
+# Linguagens e ferramentas
+
+Aqui estão as linguagens e ferramentas que usei para criar essa página de portfolio:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="60" height="60"/>
